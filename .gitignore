@@ -1,6 +1,7 @@
 target/
 Cargo.lock
 test01.so
+test01.*.so
 build/
 dist/
 test01.egg-info/
