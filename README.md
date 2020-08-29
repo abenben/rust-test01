@@ -7,7 +7,7 @@ $ git clone https://github.com/abenben/rust-test01.git
 $ cd rust-test01
 ```
 
-## コンパイル・実行
+## コンパイル
 
 ```bash
 $ cargo build --release
@@ -21,7 +21,7 @@ $ pip install setuptools_rust
 $ python setup.py install
 ```
 
-## コンパイル・実行
+## 実行
 
 ```bash
 $ python main.py
