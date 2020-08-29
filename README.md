@@ -22,3 +22,10 @@ $ pip install setuptools_rust
 $ python setup.py install
 $ python main.py 
 ```
+
+# ライブラリを新規から作る方法
+
+```bash
+$ cargo new rust-test01 --lib
+Created library `rust-test01` package
+```
